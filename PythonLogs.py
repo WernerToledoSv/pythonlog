@@ -30,6 +30,7 @@ def BuscarArchivo():
     return archivo
 
 #Logica para contabilizar los eventos log
+#los contadores fueron desididos en base a lo requerido
 def ResumenEventos(archivo):
     totalLineasValidas = 0
     totalEventos = 0
