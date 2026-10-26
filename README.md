@@ -149,7 +149,3 @@ La IA me ayudó a generar un codigo mas limpio el cual tiene la capacidad de ser
 - El programa procesa archivos de texto plano (`.txt`); no analiza directamente formatos como JSON o CSV.
 - La validación depende del formato de registro descrito en este documento.
 - Una línea puede tener más de un problema, pero el contador de líneas mal formadas debe registrar esa línea una sola vez.
-
-## Licencia
-
-[Indica la licencia si el proyecto requiere una, o elimina esta sección si no aplica.]
